@@ -8,5 +8,5 @@
 ```
     1. npm install
     2. npm run webpack
-    3. access url: [http://127.0.0.1:3000](http://127.0.0.1:3000)
+    3. access url: http://127.0.0.1:3000
 ```
