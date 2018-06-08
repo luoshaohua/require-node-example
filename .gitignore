@@ -59,3 +59,9 @@ typings/
 
 # next.js build output
 .next
+
+example_for_requirejs
+example_for_seajs
+
+example_for_webpack/front_end/build.js
+example_for_webpack/front_end/build.js.map
