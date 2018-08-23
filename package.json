@@ -1,6 +1,6 @@
 {
   "name": "require-node-example",
-  "version": "1.2.0",
+  "version": "1.2.1",
   "description": "An example for how to use npm package: require-node & require-node-loader",
   "main": "index.js",
   "scripts": {
