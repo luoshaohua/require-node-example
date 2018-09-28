@@ -1,28 +1,25 @@
 {
   "name": "require-node-example",
-  "version": "1.2.1",
+  "version": "1.2.2",
   "description": "An example for how to use npm package: require-node & require-node-loader",
   "main": "index.js",
   "scripts": {
-    "webpack": "./node_modules/.bin/webpack-cli --config webpack.config.js && node ./back_end/index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/luoshaohua/require-node-example.git"
   },
+  "keywords": [
+    "require-node",
+    "require-node-loader",
+    "api",
+    "ajax"
+  ],
   "author": "luoshaohua.cn@gmail.com",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/luoshaohua/require-node-example/issues"
   },
-  "homepage": "https://github.com/luoshaohua/require-node-example#readme",
-  "dependencies": {
-    "express": "^4.16.3",
-    "require-node": "^1.2.0",
-    "require-node-loader": "^1.2.0",
-    "serve-static": "^1.13.2",
-    "webpack": "^4.11.1",
-    "webpack-cli": "^3.0.3"
-  }
+  "homepage": "https://github.com/luoshaohua/require-node-example#readme"
 }
