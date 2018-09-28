@@ -7,7 +7,7 @@
 ## example1: simple
 ```
     0. git clone https://github.com/luoshaohua/require-node-example.git
-    1. cd example1_simple
+    1. cd require-node-example/example1_simple
     2. npm install
     3. npm run start
     4. access url: http://127.0.0.1:3000
